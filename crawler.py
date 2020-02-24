@@ -74,6 +74,6 @@ class Crawler:
 
 if __name__=='__main__':
 
-  logging.basicConfig(logging.DEBUG)
+  logging.basicConfig(level=logging.DEBUG)
   crawler=Crawler()
   crawler(starting_url="https://www.indiatoday.in/")
