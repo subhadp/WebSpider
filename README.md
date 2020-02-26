@@ -13,8 +13,7 @@ This can be run as a standalone or import the thing eg:
 The output still needs some filtering
 That is a todo
 
-Check the output and tell me mr roy
 This gives the url but still i cannot figure out how to distinguish between what is the headline and which part is the news
-
+Added the marquee generator . But this does not produce sound when the video is played . So that part needs to be figured out.
 
 
