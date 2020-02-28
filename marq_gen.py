@@ -53,7 +53,7 @@ if __name__ == "__main__":
     root = tk.Tk()
     my_label = tk.Label(root)
     my_label.pack()
-    marquee = Marquee(root, text="Arnab is amazing", borderwidth=1, relief="sunken",fps=60
+    marquee = Marquee(root, text="Arnab is amazing", borderwidth=1, relief="sunken",fps=60)
     marquee.pack(side=tk.BOTTOM)
 
 
